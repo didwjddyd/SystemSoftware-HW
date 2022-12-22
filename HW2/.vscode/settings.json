@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "init.h": "c",
+        "types.h": "c",
+        "thread.h": "c"
+    }
+}
